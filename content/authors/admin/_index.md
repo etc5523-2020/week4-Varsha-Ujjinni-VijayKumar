@@ -28,7 +28,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Varsha UV
 user_groups:
 - Researchers
 - Visitors
